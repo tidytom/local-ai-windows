@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.backup-*
+# Written by the setup and the tests
+windows_setup_log.txt
+memory_quick_test_log.txt
+hindsight_openapi.json
