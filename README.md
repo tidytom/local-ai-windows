@@ -2,8 +2,6 @@
 
 A one-click setup that installs a private AI assistant on your own Windows PC (Hermes Agent and Goose, running on Ollama), with long-term memory, rules it keeps, and a document reader that checks every value against the page.
 
-> Screenshot: add `docs/screenshot.png` (placeholder line — leave it exactly like this for GUI apps)
-
 ## What it does
 - Installs and connects **Ollama** (runs the AI models), **Hermes Agent** (the main assistant) and **Goose** (a second assistant with its own rules and memory).
 - Gives Hermes long-term memory with **Hindsight**: it saves facts from each chat and finds them again in later chats.
